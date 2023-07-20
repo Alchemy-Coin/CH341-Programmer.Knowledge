@@ -10,5 +10,12 @@ Bug report
 # Solution: 
 sch: https://www.google.com/search?q=flashrom+padding
 
+## DD method
 works:
 - https://plutiedev.com/rom-padding
+
+example:
+`cat original.bin /dev/zero | dd bs=1024 count=4096 of=padded.bin`
+
+**worked for me:** for getting exact size!
+`cat original.bin /dev/zero | dd bs=1 count=8388608 of=padded.bin`
