@@ -3,5 +3,11 @@ sch: https://www.google.com/search?q=flashrom+partial+write+layout+file, https:/
 Discuss:
 - https://flashrom.flashrom.narkive.com/74qFhzRd/image-size-doesn-t-match-the-flash-chip-s-size
 
-# Solution: 
+Bug report
 - https://github.com/flashrom/flashrom/issues/45
+
+
+# Solution: 
+sch: https://www.google.com/search?q=flashrom+padding
+
+https://plutiedev.com/rom-padding
