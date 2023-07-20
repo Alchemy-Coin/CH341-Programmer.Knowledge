@@ -10,4 +10,5 @@ Bug report
 # Solution: 
 sch: https://www.google.com/search?q=flashrom+padding
 
-https://plutiedev.com/rom-padding
+works:
+- https://plutiedev.com/rom-padding
